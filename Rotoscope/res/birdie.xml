@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<movie>
+  <frame num="0">
+    <image x="1088" y="346" type="bird" />
+  </frame>
+  <frame num="1">
+    <image x="945" y="347" type="bird" />
+  </frame>
+</movie>
